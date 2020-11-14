@@ -1,0 +1,34 @@
+﻿  example.cpp
+  main.cpp
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(36,51): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(36,51): warning C4244:         with
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(36,51): warning C4244:         [
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(36,51): warning C4244:             T=float
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(36,51): warning C4244:         ]
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(43,66): warning C4244: 'argument': conversion from 'size_t' to 'T', possible loss of data
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(43,66): warning C4244:         with
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(43,66): warning C4244:         [
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(43,66): warning C4244:             T=float
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(43,66): warning C4244:         ]
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(71,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(71,54): warning C4244:         with
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(71,54): warning C4244:         [
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(71,54): warning C4244:             T=float
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(71,54): warning C4244:         ]
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(71,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(71,38): warning C4244:         with
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(71,38): warning C4244:         [
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(71,38): warning C4244:             T=float
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(71,38): warning C4244:         ]
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(91,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(91,54): warning C4244:         with
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(91,54): warning C4244:         [
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(91,54): warning C4244:             T=float
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(91,54): warning C4244:         ]
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(91,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(91,38): warning C4244:         with
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(91,38): warning C4244:         [
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(91,38): warning C4244:             T=float
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(91,38): warning C4244:         ]
+C:\Users\Mohammed\Desktop\Kage2D engine\projects\base\example.cpp(50,28): warning C4100: 'deltaT': unreferenced formal parameter
+  base.vcxproj -> C:\Users\Mohammed\Desktop\Kage2D engine\bin\base_d.exe
